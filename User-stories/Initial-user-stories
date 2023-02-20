@@ -1,0 +1,3 @@
+User Story: As a public health official, we want to able to track and analyze the spread of COVID-19 in real-time, so that We can make data-driven decision and respond effectively to outbreaks.
+
+Task: Set up a real-time data pipeline to collect and process COVID-19 case data from various sources, such as government health departments and healthcare providers, and store it in a centtralized database.
